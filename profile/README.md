@@ -1,12 +1,7 @@
-## Hi there 👋
+# Hi there :wave:
 
-<!--
+This is the GitHub organization for the University of Michigan Solar Car Team :smile:. You can find the code that powers our firmware, physics tools, and ouija board all in this organization.
 
-**Here are some ideas to get you started:**
+Want to create software or store data? Head over to the [styles and standards](https://github.com/MichiganSolarCarTeam/style-and-standards) repository to get started.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+By the way, if you're from another solar car team (TU Delft, Twente, Tokai, Sonnenwagen, Innoptus, MIT, Stanford, Illinois), [it's recommended that you click here](https://www.youtube.com/watch?v=xvFZjo5PgG0).
